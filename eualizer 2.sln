@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{0FE68730-45EB-86E6-EAA5-37600D51CCC5}") = "eualizer 2", "Assembly-CSharp.csproj", "{4E9B31BE-0BEF-7CB1-9B1F-681A4F362F5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E9B31BE-0BEF-7CB1-9B1F-681A4F362F5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E9B31BE-0BEF-7CB1-9B1F-681A4F362F5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E9B31BE-0BEF-7CB1-9B1F-681A4F362F5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E9B31BE-0BEF-7CB1-9B1F-681A4F362F5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
